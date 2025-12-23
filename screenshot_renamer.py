@@ -50,4 +50,4 @@ def auto_rename_screenshots(folder):
 
 if __name__ == "__main__":
     desktop_folder = Path.home() / "Desktop"
-    auto_rename_screenshots(desktop_folder)
+    
