@@ -9,3 +9,7 @@ venv/
 # virtual environments
 venv/
 .venv/
+
+# virtual envs
+venv/
+.venv/
