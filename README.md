@@ -43,25 +43,19 @@ Make sure Ollama is running:
 ollama serve
 Get started
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/shruthikab/ai-screenshot-renamer.git
 cd ai-screenshot-renamer
 (Optional) Install Python dependencies if required:
 
 bash
-Copy code
 pip install pillow requests
 Place the screenshots you want to rename in the folder expected by the script
 (or update the folder path inside screenshot_renamer.py).
 
 Usage
 Run the script:
-
-bash
-Copy code
 python screenshot_renamer.py
+
 Each screenshot will be renamed based on its visual content.
 
 Notes
